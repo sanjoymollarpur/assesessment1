@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -35,4 +36,41 @@
   to {
     transform: rotate(360deg);
   }
+}
+.btn{
+  margin: 20px;
+  padding: 15px;
+  border-radius: 25px;
+  border: 2px solid black;
+  
+}
+.btn1{
+  background-color: rgb(57, 167, 167);
+}
+.btn2{
+  background-color:  aqua;
+}
+.card-div{
+  
+  margin-left: 23%;
+  
+}
+.para{
+  color: rgb(70, 34, 34);
+}
+.box{
+  border: 2px solid black;
+  width: 300px;
+  padding: 10px;
+  border-radius: 20px;
+  margin: 30px;
+}
+.box1{
+  background-color: aqua;
+}
+.box2{
+  background-color: rgb(230, 80, 230);
+  position: absolute;
+  top: 177px;
+  left: 680px;
 }
